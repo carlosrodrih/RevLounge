@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/RevLounge/static/css/main.01bafb7d.chunk.css",
+    "main.js": "/RevLounge/static/js/main.6f78c787.chunk.js",
+    "main.js.map": "/RevLounge/static/js/main.6f78c787.chunk.js.map",
+    "runtime-main.js": "/RevLounge/static/js/runtime-main.db6e1074.js",
+    "runtime-main.js.map": "/RevLounge/static/js/runtime-main.db6e1074.js.map",
+    "static/css/2.99345921.chunk.css": "/RevLounge/static/css/2.99345921.chunk.css",
+    "static/js/2.fc9f3e92.chunk.js": "/RevLounge/static/js/2.fc9f3e92.chunk.js",
+    "static/js/2.fc9f3e92.chunk.js.map": "/RevLounge/static/js/2.fc9f3e92.chunk.js.map",
+    "static/js/3.61681707.chunk.js": "/RevLounge/static/js/3.61681707.chunk.js",
+    "static/js/3.61681707.chunk.js.map": "/RevLounge/static/js/3.61681707.chunk.js.map",
+    "index.html": "/RevLounge/index.html",
+    "static/css/2.99345921.chunk.css.map": "/RevLounge/static/css/2.99345921.chunk.css.map",
+    "static/css/main.01bafb7d.chunk.css.map": "/RevLounge/static/css/main.01bafb7d.chunk.css.map",
+    "static/js/2.fc9f3e92.chunk.js.LICENSE.txt": "/RevLounge/static/js/2.fc9f3e92.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/RevLounge/static/media/outline-icons.ddae9b1b.woff",
+    "static/media/daniel.35a9c90c.jpg": "/RevLounge/static/media/daniel.35a9c90c.jpg",
+    "static/media/logo-revlounge-white.75581649.png": "/RevLounge/static/media/logo-revlounge-white.75581649.png",
+    "static/media/logo-revlounge.d947cbe0.png": "/RevLounge/static/media/logo-revlounge.d947cbe0.png",
+    "static/media/matthew.a5edfa2f.png": "/RevLounge/static/media/matthew.a5edfa2f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db6e1074.js",
+    "static/css/2.99345921.chunk.css",
+    "static/js/2.fc9f3e92.chunk.js",
+    "static/css/main.01bafb7d.chunk.css",
+    "static/js/main.6f78c787.chunk.js"
+  ]
+}
