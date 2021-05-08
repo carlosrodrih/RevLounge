@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/RevLounge/static/css/main.01bafb7d.chunk.css",
-    "main.js": "/RevLounge/static/js/main.6f78c787.chunk.js",
-    "main.js.map": "/RevLounge/static/js/main.6f78c787.chunk.js.map",
+    "main.js": "/RevLounge/static/js/main.a89c3474.chunk.js",
+    "main.js.map": "/RevLounge/static/js/main.a89c3474.chunk.js.map",
     "runtime-main.js": "/RevLounge/static/js/runtime-main.db6e1074.js",
     "runtime-main.js.map": "/RevLounge/static/js/runtime-main.db6e1074.js.map",
     "static/css/2.99345921.chunk.css": "/RevLounge/static/css/2.99345921.chunk.css",
@@ -25,6 +25,6 @@
     "static/css/2.99345921.chunk.css",
     "static/js/2.fc9f3e92.chunk.js",
     "static/css/main.01bafb7d.chunk.css",
-    "static/js/main.6f78c787.chunk.js"
+    "static/js/main.a89c3474.chunk.js"
   ]
 }
